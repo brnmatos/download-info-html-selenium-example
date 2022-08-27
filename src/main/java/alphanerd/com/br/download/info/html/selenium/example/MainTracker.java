@@ -11,7 +11,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import alphanerd.com.br.download.info.html.selenium.model.ExampleModel;
+import alphanerd.com.br.download.info.html.selenium.example.model.ExampleModel;
 
 public class MainTracker {
 
